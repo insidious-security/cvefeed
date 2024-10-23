@@ -1,6 +1,8 @@
 # CVEFEED
 
 This program pulls the latest CVE data directly from an RSS feed, parsing and organizing it into a sleek list. Browse vulnerabilities in style with a dynamic table of CVEs, and dive deep into each one for a full description and publication details—all within your console. Effortless security insights, one CVE at a time!
+Check out the [demo video](assets/cvefeed.mp4) to see it in action.
+
 
 
 ## How to use:
